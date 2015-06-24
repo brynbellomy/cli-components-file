@@ -1,0 +1,21 @@
+{
+  "name": "cli-components-file",
+  "version": "1.0.0",
+  "description": "Misc. file-related tools for making CLI stuff",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "authors": [
+    "bryn austin bellomy <bryn.bellomy@gmail.com>"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "tsd": "^0.6.1",
+    "typescript": "^1.5.0-beta"
+  },
+  "dependencies": {
+    "fs-extra": "^0.20.1",
+    "when": "^3.7.3"
+  }
+}

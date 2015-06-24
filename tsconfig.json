@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "declaration": true,
+        "sourceMap": true,
+        "outDir": "build"
+    },
+    "files": [
+        "src/index.ts"
+      , "typings/tsd.d.ts"
+      , "typings/node/node.d.ts"
+      , "typings/when/when.d.ts"
+      , "typings/fs-extra/fs-extra.d.ts"
+    ]
+}
+
